@@ -141,10 +141,14 @@ h5{
     }
     header{
         background-image: linear-gradient(rgba(255,255,255,0.6),rgba(255,255,255,0.6)),url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Farmstrongmedia.s3.amazonaws.com%2Fwp-content%2Fuploads%2F2015%2F06%2FDiscrimination-1.jpg&f=1&nofb=1');
-        width: 600px;
     }
 
     header>h1{
         text-align: center;
+    }
+    #content>p,#content>img{
+        text-align: center;
+        margin: auto;
+        margin-left: 200px;
     }
 }
